@@ -1,2 +1,4 @@
 node_modules
 bin
+scraped-results/*
+!scraped-results/.gitkeep

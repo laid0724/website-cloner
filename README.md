@@ -1,7 +1,7 @@
 # Website Cloner
 
-A website scrapper that downloads all assets from an url using node js
+A website scrapper that downloads all assets from an url using node js.
 
 # How To
 
-In `app.js`, add url and specify folder name to save website to and then run `npm start`
+- In `app.js`, adjust the `config` variable accordingly and then run `npm start`
